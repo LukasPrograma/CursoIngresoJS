@@ -2,7 +2,6 @@ function mostrar()
 {
 	/*Lucas Leonardo Palacios Bulige
 	Div X
-	no entregado
 	Al ingresar una edad debemos informar solo si la persona es mayor de edad*/
 
 	//Declaro variable
