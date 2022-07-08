@@ -5,6 +5,7 @@ function mostrar()
 {
 	let nombreIngresado;
 	let edadIngresado;
+	alert("holamundo");
 	nombreIngresado = document.getElementById("txtIdNombre").value;
 	edadIngresado = document.getElementById("txtIdEdad").value;
 	alert("Usted se llama " + nombreIngresado + " y tiene " + edadIngresado + " años");
